@@ -1,0 +1,89 @@
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.userprefs
+*.log
+*.cache
+*.obj
+*.pdb
+*.ilk
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.vspscc
+*.vssscc
+*.builds
+*.pidb
+*.scc
+*.psess
+*.vsp
+*.vspx
+_ReSharper*/
+*.[Rr]e[Ss]harper
+_TeamCity*
+*.dotCover
+*.ncrunch*
+*.ncrunch*.local.xml
+[Ee]xpress/
+DocProject/buildhelp/
+DocProject/Help/*.HxT
+DocProject/Help/*.HxC
+DocProject/Help/*.hhc
+DocProject/Help/*.hhk
+DocProject/Help/*.hhp
+DocProject/Help/Html2
+DocProject/Help/html
+publish/
+*.Publish.xml
+csx/
+*.build.csdef
+AppPackages/
+*.Cache
+ClientBin/
+[Ss]tyle[Cc]op.
+~$*
+*~
+*.dbmdl
+*.pfx
+*.publishsettings
+modulesbin/
+tempbin/
+AppData/
+
+# Binaries and object files
+[Bb]in/
+[Oo]bj/
+
+# Packages
+packages/
+*.nupkg
+*.nuget.log
+
+# Test Results
+[Tt]est[Rr]esult*/
+
+# ReSharper and other JetBrains tools
+_ReSharper*/
+*.ReSharper
+*.DotSettings
+
+# NCrunch
+*.ncrunch*
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# Other common ignore patterns
+*.bak
+*.orig
+*.swp
+*.swo
+*.DS_Store
+Thumbs.db
